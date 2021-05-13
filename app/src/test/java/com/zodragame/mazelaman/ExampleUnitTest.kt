@@ -1,4 +1,4 @@
-package com.zodragame.zodra
+package com.zodragame.mazelaman
 
 import org.junit.Test
 

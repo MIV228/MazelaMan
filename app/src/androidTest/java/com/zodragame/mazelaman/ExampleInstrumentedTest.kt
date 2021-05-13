@@ -1,4 +1,4 @@
-package com.zodragame.zodra
+package com.zodragame.mazelaman
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
